@@ -2,4 +2,4 @@
 Repository containing materials used for exhibition at AI UK 2023
 
 # License
-Please see the LICENSE file for details
+Please see the LICENSE.md file for details
